@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TarefeiroAPI.Controllers.StatusController">
+    <Position X="9.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAAAAAAAEAAAAAAAAABAAAIAAABA=</HashCode>
+      <FileName>Controllers\StatusController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_context" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TarefeiroAPI.Controllers.TarefasController">
+    <Position X="1" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABgAgAAAAAAAAAAAAAAAAgAEQAAAAAAA=</HashCode>
+      <FileName>Controllers\TarefasController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_context" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TarefeiroAPI.Controllers.TarefaTiposController">
+    <Position X="1" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAkQAAAAAAAAAAAAAAAAEAAAQA=</HashCode>
+      <FileName>Controllers\TarefaTiposController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_context" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TarefeiroAPI.Data.DataContext">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
